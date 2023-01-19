@@ -1,0 +1,2 @@
+# detached-HEAD
+Detached head
